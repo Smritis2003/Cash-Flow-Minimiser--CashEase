@@ -1,4 +1,4 @@
-# Cash Flow Minimiser
+# Cash Flow Minimiser-CashEase
 
 This is a program that allows users to split expenses with friends or colleagues. If a group needs to share the cost of a particular bill, the Cash Flow Minimiser will make sure that each person who paid money, gets reimbursed with the correct amount. This is also done using the minimum number of transactions. 
 
@@ -14,8 +14,9 @@ https://user-images.githubusercontent.com/76661350/151113470-62df1428-0c25-4019-
 ## Installation
 
 Clone the repository <br/>
-`git clone https://github.com/mittal-parth/Cash-Flow-Minmiser` <br/>
-`cd Cash-Flow-Minmiser`
+`git clone https://github.com/Smritis2003/Cash-Flow-Minimiser--CashEase.git` <br/>
+`cd Cash-Flow-Minimiser--CashEase
+`
 
 Check package.json file and ensure scripts are notated as below:
 
